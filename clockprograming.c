@@ -10,7 +10,8 @@ int main()
    clock(hr,min);
     return 0;
 }
-void clock(int hr,int min)
+void clock(int hr,int 
+min)
 {
  if(hr<=11)
     printf("%d:%d am",hr,min);
